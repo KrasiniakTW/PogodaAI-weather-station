@@ -20,7 +20,7 @@ This repository focuses on the hardware development — including 3D design, ele
 
 ---
 
-## ⚙️ Main Features
+## Main Features
 - **Energy autonomy:** operates 100% off-grid using a solar panel + Li-Po battery.  
 - **Modular architecture:** each sensor and component can be replaced or upgraded independently.  
 - **Multi-sensor integration:** PM1.0, PM2.5, PM10 (PMSA003), temperature, humidity, pressure, VOC (BME680), light, rainfall, wind speed, and wind direction.   
@@ -30,7 +30,7 @@ This repository focuses on the hardware development — including 3D design, ele
 
 ---
 
-## 🛠 Hardware Overview
+## Hardware Overview
 
 | Component | Description |
 |------------|--------------|
@@ -63,7 +63,7 @@ The **anemometer** and **wind vane** were designed specifically for this project
 
 ---
 
-## 🧰 Assembly Instructions
+## Assembly Instructions
 Step-by-step build guides are included:
 - [`PogodaAI_weather_station_assembly_guide.pdf`](hardware/PogodaAI_weather_station_assembly_guide.pdf)  
 - [`PogodaAI_weather_station_electronics_guide.pdf`](hardware/PogodaAI_weather_station_electronics_guide.pdf)  
