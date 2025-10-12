@@ -65,8 +65,8 @@ The **anemometer** and **wind vane** were designed specifically for this project
 
 ## 🧰 Assembly Instructions
 Step-by-step build guides are included:
-- [`PogodaAI_weather_station_assembly_guide.pdf`](hardware/PogodaAI_assembly_guide.pdf)  
-- [`PogodaAI_weather_station_electronics_guide.pdf`](hardware/PogodaAI_electronics_guide.pdf)  
+- [`PogodaAI_weather_station_assembly_guide.pdf`](hardware/PogodaAI_weather_station_assembly_guide.pdf)  
+- [`PogodaAI_weather_station_electronics_guide.pdf`](hardware/PogodaAI_weather_station_electronics_guide.pdf)  
 - [`PogodaAI_printing_guide.pdf`](hardware/PogodaAI_printing_guide.pdf)
 
 ---
