@@ -104,4 +104,4 @@ This project is licensed under the MIT License – you are free to use, modify, 
 ## Contact
 Krasiniak TechWorks
 - techworks@krasiniak.pl
-- GitHub: github.com/PrezesGK
+- GitHub: github.com/KrasiniakTW
