@@ -14,7 +14,7 @@ The entire system is **open-source**, **DIY-friendly**, and designed for easy re
 
 !!!Disclaimer!!!
 The AI model and training scripts are available in a separate repository:
-[PogodaAI-AI](https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1)
+[PogodaAI-AI](https://github.com/krzkr80/pogodaAI-backend)
 
 This repository focuses on the hardware development — including 3D design, electronics, and assembly instructions for the autonomous weather station.
 
@@ -104,4 +104,4 @@ This project is licensed under the MIT License – you are free to use, modify, 
 ## Contact
 Krasiniak TechWorks
 - techworks@krasiniak.pl
-- GitHub: github.com/KrasiniakTW
+- GitHub: github.com/KrasiniakTW i github.com/krzkr80
