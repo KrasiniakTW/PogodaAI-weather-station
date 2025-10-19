@@ -14,7 +14,7 @@ The entire system is **open-source**, **DIY-friendly**, and designed for easy re
 
 !!!Disclaimer!!!
 The AI model and training scripts are available in a separate repository:
-[PogodaAI-AI](https://github.com/krzkr80/pogodaAI-backend)
+[PogodaAI-backend](https://github.com/krzkr80/pogodaAI-backend) made by Krzysztof Kurbanow
 
 This repository focuses on the hardware development — including 3D design, electronics, and assembly instructions for the autonomous weather station.
 
